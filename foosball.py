@@ -4,6 +4,7 @@ import random
 import time
 import math
 
+
 LARGURA_JANELA = 1024
 ALTURA_JANELA = 600
 DEFAULT_TURTLE_SIZE = 40
