@@ -1,4 +1,4 @@
-import foosball_alunos
+import foosball
 
 
 def le_replay(nome_ficheiro):
