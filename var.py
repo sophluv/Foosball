@@ -1,6 +1,5 @@
 import foosball
 
-
 def le_replay(nome_ficheiro):
     replay_data = {"bola": [], "jogador_vermelho": [], "jogador_azul": []}
 
